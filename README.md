@@ -1,3 +1,3 @@
 # hello-world
-A short description
+<title>A short description<title>
 This is a longer description
